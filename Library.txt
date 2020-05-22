@@ -1,0 +1,11 @@
+Inventory number:		Author:			Title:				Number of pages:		Year of publication:
+99237566			Davis			The_Great_Gatsby		215				1945
+89112619			Moore			The_Handmaid's_Tale		145				1984
+98865906			Smith			Lord_of_the_Flies		654				2015
+78898946			Miller			The_Hunger_Games		478				1964
+59658877			Johnson			Crime_and_Punishment		215				1865
+69552376			Brown			The_Fault_in_Our_Stars		127				1765
+79721302			Taylor			A_Game_of_Thrones		254				1955
+58838416			Davies			The_Girl_on_the_Train		356				2010
+49733446			Johnson			A_Tale_of_Two_Cities		789				2002
+39540625			Thomas			The_Lord_of_the_Rings		254				1984
