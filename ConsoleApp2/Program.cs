@@ -619,7 +619,7 @@ namespace ConsoleApp2
             else if (cki.Key == ConsoleKey.NumPad3)
             {
                 Array.Sort(books, new SortByNumber_of_pages());
-                Console.WriteLine("\nСортування за iнвентарним номером");
+                Console.WriteLine("\nСортування за кiлькiстю сторiнок");
                 Console.WriteLine(prt01);
                 for (int i = 0; i < books.Length; i++)
                     Console.WriteLine(books[i].inventory_number + "\t\t\t" + books[i].author + "\t\t\t" + books[i].title + "\t\t" + books[i].number_of_pages + "\t\t\t\t" + books[i].year_of_publication);
