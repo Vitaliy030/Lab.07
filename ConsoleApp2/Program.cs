@@ -656,7 +656,7 @@ namespace ConsoleApp2
             }
             else
             {
-                throw new Exception("Параметр повинен бути типу House!");
+                throw new Exception("Параметр повинен бути типу Library!");
             }
         }
 
